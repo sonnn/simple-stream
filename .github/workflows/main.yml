@@ -38,4 +38,3 @@ jobs:
           working-directory: ./
           alias-domains: |
             simple-stream-sepia.vercel.app
-            pr-{{PR_NUMBER}}.simple-stream-sepia.vercel.app
